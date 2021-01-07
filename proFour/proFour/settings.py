@@ -23,7 +23,7 @@ TEMPLATE_DIR = BASE_DIR / 'templates'
 SECRET_KEY = ')cab11bpoo!(r=lfx)f=npq&j6qbn4_am1l3c_0mz+ov5*vlcq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
